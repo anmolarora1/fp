@@ -22,3 +22,5 @@ function anagramsFilter(s) {
     return acc;
   }, []);
 }
+
+export default anagramsFilter;
